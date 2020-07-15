@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-/github/forks/:user/:repo?label=Fork
+![](https://img.shields.io/badge/linkedin-Lucas%20Laet-blue)
 
 <!--
 **llaet/llaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
