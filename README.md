@@ -30,7 +30,7 @@
 ![MVC](https://img.shields.io/badge/Pattern-MVC-ff69b4)
 ![KanBan](https://img.shields.io/badge/Agile-KanBan-yellow)
 
-\[T]/ Praise the sun!
+    \[T]/ Praise the sun!
 <!--
 **llaet/llaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
