@@ -9,12 +9,12 @@
 
 ## I am currently studying:
 * Backend
-i [Spring Framework](https://spring.io/)
-ii [Hibernate](https://hibernate.org/)
-iii [MongoDB](https://www.mongodb.com/)
+i. [Spring Framework](https://spring.io/)
+ii. [Hibernate](https://hibernate.org/)
+iii. [MongoDB](https://www.mongodb.com/)
 
 * Mobile
-i [Ionic Framework](https://ionicframework.com/)
+i. [Ionic Framework](https://ionicframework.com/)
 
 ### Also interested in reactive programming and more about NoSQL/Mobile technologies
 
