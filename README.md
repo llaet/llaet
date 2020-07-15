@@ -1,7 +1,3 @@
-# Lucas Laet 
-
-### I am 21 years old, Systems Information student. Technology and learning enthusiast, always looking for improve myself and have some fun when coding.
-
 [![Linkedin](https://img.shields.io/badge/-lucaslaet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-laet-b47452187/)](https://www.linkedin.com/in/lucas-laet-b47452187/)
 [![Gmail](https://img.shields.io/badge/-lucas.laetlira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.laetlira@gmail.com)](mailto:lucas.laetlira@gmail.com)
 [![GitHub-pages](https://img.shields.io/badge/GitHub%20pages-Lucas%20Laet-green)](https://llaet.github.io/)
