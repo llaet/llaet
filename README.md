@@ -20,7 +20,7 @@
 
 ## 💻 Stacks/Skills/Patterns:
 ![Java](https://img.shields.io/badge/Backend-Java-orange)
-![Spring](https://img.shields.io/badge/Backend-Spring-brightgreen)
+![Spring](https://img.shields.io/badge/Back/Front-Spring-brightgreen)
 ![Python](https://img.shields.io/badge/Backend-Python-blue)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-yellowgreen)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-9cf)
