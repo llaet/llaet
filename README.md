@@ -8,16 +8,29 @@
 [![Linktree](https://img.shields.io/badge/Linktree-llaet-brightgreen)](https://linktr.ee/llaet)
 
 ## I am currently studying:
-* Backend
-i. [Spring Framework](https://spring.io/)
-ii. [Hibernate](https://hibernate.org/)
-iii. [MongoDB](https://www.mongodb.com/)
+* 🧠 Backend
+  - [Spring Framework](https://spring.io/)
+  - [Hibernate](https://hibernate.org/)
+  - [MongoDB](https://www.mongodb.com/)
 
-* Mobile
-i. [Ionic Framework](https://ionicframework.com/)
+* 📱 Mobile
+  - [Ionic Framework](https://ionicframework.com/)
 
-### Also interested in reactive programming and more about NoSQL/Mobile technologies
+* Also interested in reactive programming and more about NoSQL/Mobile technologies
 
+## 💻 Stacks/Skills/Patterns:
+![Java](https://img.shields.io/badge/Backend-Java-orange)
+![Spring](https://img.shields.io/badge/Backend-Spring-brightgreen)
+![Python](https://img.shields.io/badge/Backend-Python-blue)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-yellowgreen)
+![MySQL](https://img.shields.io/badge/Database-MySQL-9cf)
+![JUnit](https://img.shields.io/badge/QA-JUnit-red)
+![AAA](https://img.shields.io/badge/QA-AAA-green)
+![SOLID](https://img.shields.io/badge/Pattern-SOLID-blueviolet)
+![MVC](https://img.shields.io/badge/Pattern-MVC-ff69b4)
+![KanBan](https://img.shields.io/badge/Agile-KanBan-yellow)
+
+~ \[T]/ Praise the sun!
 <!--
 **llaet/llaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
