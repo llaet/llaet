@@ -2,7 +2,6 @@
 [![Gmail](https://img.shields.io/badge/-lucas.laetlira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.laetlira@gmail.com)](mailto:lucas.laetlira@gmail.com)
 [![GitHub-pages](https://img.shields.io/badge/GitHub%20pages-Lucas%20Laet-green)](https://llaet.github.io/)
 [![Linktree](https://img.shields.io/badge/Linktree-llaet-brightgreen)](https://linktr.ee/llaet)
-
 ## I am currently studying:
 * 🧠 Backend
   - [Spring Framework](https://spring.io/)
@@ -13,7 +12,6 @@
   - [Ionic Framework](https://ionicframework.com/)
 
 * Also interested in reactive programming and more about NoSQL/Mobile technologies
-
 ## 💻 Stacks/Skills/Patterns:
 ![Java](https://img.shields.io/badge/Backend-Java-orange)
 ![Spring](https://img.shields.io/badge/Back/Front-Spring-brightgreen)
@@ -25,8 +23,6 @@
 ![SOLID](https://img.shields.io/badge/Pattern-SOLID-blueviolet)
 ![MVC](https://img.shields.io/badge/Pattern-MVC-ff69b4)
 ![KanBan](https://img.shields.io/badge/Agile-KanBan-yellow)
-
-    ~ \[T]/ Praise the sun!
 <!--
 **llaet/llaet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
